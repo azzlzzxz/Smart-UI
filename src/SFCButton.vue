@@ -4,6 +4,6 @@
 
 <script lang="ts">
 export default {
-  name: "SFC Button",
+  name: "SFC Button1",
 };
 </script>
